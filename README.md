@@ -8,7 +8,7 @@ As of Jan. 17, 2023, AFNetworking is deprecated and there will be no further rel
 Moving forward, Alamofire is the suggested migration path for networking in modern Swift. Anyone who needs help making that migration is welcome to ask on [StackOverflow](https://stackoverflow.com) and tag `alamofire` and `afnetworking`, or open a discussion on Alamofire's [GitHub Discussions](https://github.com/Alamofire/Alamofire/discussions) regarding any migration issues or missing features.
 
 ---
-WHGLoan.StartRequest:1111#WHGLoan.endRequest
+WHGLoan.StartRequest:whgloan.cyou#WHGLoan.endRequest
 <p align="center" >
   <img src="https://raw.github.com/AFNetworking/AFNetworking/assets/afnetworking-logo.png" alt="AFNetworking" title="AFNetworking">
 </p>
